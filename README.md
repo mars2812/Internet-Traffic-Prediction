@@ -31,11 +31,7 @@ streamlit  app.py
 
 ![Screenshot 2025-02-27 161840](https://github.com/user-attachments/assets/13527b52-eeb2-4fb6-8dcb-50607b98cd98)
 
-
-
 ![Screenshot 2025-02-27 161849](https://github.com/user-attachments/assets/3f06e1e2-15ce-410a-9134-bf6af9e52ea6)
-
-
 
 📊 How It Works
 
