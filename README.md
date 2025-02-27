@@ -5,7 +5,7 @@ This project predicts the next day's internet traffic usage using a Long Short-T
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/internet-traffic-prediction.git
+git clone [https://github.com/your-username/internet-traffic-prediction.git](https://github.com/mars2812/Internet-Traffic-Prediction/tree/master)
 cd internet-traffic-prediction
 
 2️⃣ Create & Activate Virtual Environment
